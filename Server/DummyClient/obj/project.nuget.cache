@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nQgEgkDcSOYrLuTqczFQnAUIsTW/Tsd/+4qSbz23LB1L9b4zV4ga7Hx95tH/I+FDPF5sptv2tO4HTCVOlledcw==",
+  "dgSpecHash": "7oF50RO4l9rbTeOucak2L5IIkyUmYfcxBYG8VLIxIToV6aFE7hW0vs9Oe8uEZB6/HpdbTyrlqnbDoMcjsMGh4g==",
   "success": true,
-  "projectFilePath": "D:\\김귀종\\Server\\DummyClient\\DummyClient.csproj",
+  "projectFilePath": "D:\\Unity\\Github\\Socket\\Server\\DummyClient\\DummyClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

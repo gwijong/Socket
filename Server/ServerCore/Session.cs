@@ -19,8 +19,9 @@ namespace ServerCore
         /// <summary> 보류중 </summary>
         bool _pending = false;
         /// <summary> 비동기 소켓처리를 지원하기 위한 클래스 </summary>
-        SocketAsyncEventArgs _sendArgs = new SocketAsyncEventArgs(); 
+        SocketAsyncEventArgs _sendArgs = new SocketAsyncEventArgs();
 
+        /// <summary> 세션 시작 </summary>
         public void Start(Socket socket)
         {
             _socket = socket;
@@ -136,7 +137,7 @@ namespace ServerCore
                     Console.WriteLine($"[From Clint]{recvData}");
                     RegisterRecv(args);
                 }
-                catch (Exception e)
+                catch (Exception e)//Exception 애플리케이션 실행 중 발생하는 오류를 나타냅니다.
                 {
                     Console.WriteLine($"OnRecvCompleted Failed {e}");
                 }

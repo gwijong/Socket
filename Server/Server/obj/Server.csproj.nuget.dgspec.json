@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\김귀종\\Server\\Server\\Server.csproj": {}
+    "D:\\Unity\\Github\\Socket\\Server\\Server\\Server.csproj": {}
   },
   "projects": {
-    "D:\\김귀종\\Server\\Server\\Server.csproj": {
+    "D:\\Unity\\Github\\Socket\\Server\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\김귀종\\Server\\Server\\Server.csproj",
+        "projectUniqueName": "D:\\Unity\\Github\\Socket\\Server\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "D:\\김귀종\\Server\\Server\\Server.csproj",
+        "projectPath": "D:\\Unity\\Github\\Socket\\Server\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\김귀종\\Server\\Server\\obj\\",
+        "outputPath": "D:\\Unity\\Github\\Socket\\Server\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S7Hz9qPbVHXSZTALz1dcBUKrK/UPe7oUWbPWHYm+8r/sgd5jROnlm0ghMMmtEeF+aishNpdDHb9oeJ1rx2n8zQ==",
+  "dgSpecHash": "eoPkG+TR5EKN1XF5ndHNAN5PyF1yoD0XD4wK9nTqbsZy6IYWkA93ojAOpyt9HA+R9/JcNX48zdX59IaMiFQ2kg==",
   "success": true,
-  "projectFilePath": "D:\\김귀종\\Server\\ServerCore\\ServerCore.csproj",
+  "projectFilePath": "D:\\Unity\\Github\\Socket\\Server\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

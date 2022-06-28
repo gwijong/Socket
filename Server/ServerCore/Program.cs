@@ -9,6 +9,7 @@ namespace ServerCore
 {
     class Program
     {
+        /// <summary> Listener 객체 </summary>
         static Listener _listener = new Listener();
 
         static void OnAcceptHandler(Socket clientSocket)

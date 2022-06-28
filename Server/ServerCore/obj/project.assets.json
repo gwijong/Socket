@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\김귀종\\Server\\ServerCore\\ServerCore.csproj",
+      "projectUniqueName": "D:\\Unity\\Github\\Socket\\Server\\ServerCore\\ServerCore.csproj",
       "projectName": "ServerCore",
-      "projectPath": "D:\\김귀종\\Server\\ServerCore\\ServerCore.csproj",
+      "projectPath": "D:\\Unity\\Github\\Socket\\Server\\ServerCore\\ServerCore.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\김귀종\\Server\\ServerCore\\obj\\",
+      "outputPath": "D:\\Unity\\Github\\Socket\\Server\\ServerCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
